@@ -35,4 +35,9 @@ void OverflowDemo()
 	int e = INT_MAX;
 	e++;
 	cout << "e = INT_MAX; e++ is: " << (int)e << endl;
+
+	char z = 'A';
+	cout << "z = 'A' is:" << z << "Numeric value is: " << (int)z << endl;
+	z += 32;
+	cout << "z +=32 is: " << z;
 }

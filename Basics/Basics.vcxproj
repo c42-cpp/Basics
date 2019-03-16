@@ -151,11 +151,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="AreaOfCircle.h" />
+    <ClInclude Include="EnumDemo.h" />
     <ClInclude Include="Overflow.h" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="AreaOfCircle.cpp" />
     <ClCompile Include="Basics.cpp" />
+    <ClCompile Include="EnumDemo.cpp" />
     <ClCompile Include="Overflow.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>

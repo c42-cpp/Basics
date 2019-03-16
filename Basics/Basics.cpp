@@ -4,11 +4,15 @@
 #include "pch.h"
 #include <iostream>
 #include "Overflow.h"
+#include "EnumDemo.h"
+#include "AreaOfCircle.h"
 
 int main()
 {
     //std::cout << "Hello World!\n"; 
 	OverflowDemo();
+	//EnumDemo();
+	//AreaOfCircle();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

@@ -21,6 +21,12 @@
     <ClInclude Include="Overflow.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="EnumDemo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AreaOfCircle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
@@ -30,6 +36,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Overflow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EnumDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AreaOfCircle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
