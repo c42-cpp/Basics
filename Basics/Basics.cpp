@@ -6,13 +6,19 @@
 #include "Overflow.h"
 #include "EnumDemo.h"
 #include "AreaOfCircle.h"
+#include "Pointers.h";
 
 int main()
 {
     //std::cout << "Hello World!\n"; 
-	OverflowDemo();
+	//OverflowDemo();
 	//EnumDemo();
 	//AreaOfCircle();
+	//ArraysInHeapDemo();
+	//PointerArith();
+	//PointerGotchas();
+	//ReferencesDemo();
+	PointerSizes();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
